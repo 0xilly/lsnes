@@ -21,3 +21,4 @@ src/emulation/make-ports
 src/cmdhelp/mkstubs
 src/cmdhelp/mkstubsi
 buildaux/mkdeps
+*.kdev4

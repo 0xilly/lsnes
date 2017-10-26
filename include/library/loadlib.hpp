@@ -5,6 +5,7 @@
 #include <stdexcept>
 #include <map>
 #include <set>
+#include<functional>
 #include "threads.hpp"
 
 namespace loadlib

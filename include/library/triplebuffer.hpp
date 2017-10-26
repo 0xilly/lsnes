@@ -2,6 +2,7 @@
 #define _library_triplebuffer__hpp__included__
 
 #include <stdexcept>
+#include<functional>
 #include "threads.hpp"
 
 namespace triplebuffer
